@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gvtechcom.alice_en" version="1.01">
 
 	<name>Alice in wonderland</name>
-	<description>Alice ở xứ sở diệu kỳ</description>
+	<description>Alice in wonderland Story</description>
 	<author>GV Apps</author>
 
 	<gap:platforms>
